@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1bc9c766-adcc-426e-a61a-1c459e1ec13b",
+    "name": "ENV",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-03-06T13:28:53.999Z",
+    "modified": "2023-03-06T13:28:53.999Z",
+    "data": [
+      {
+        "name": "API",
+        "value": "http://localhost:8080"
+      }
+    ]
+  }
+]
